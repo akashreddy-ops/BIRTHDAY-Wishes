@@ -57,3 +57,6 @@ No backend or setup required — it's a static site!
 📄 License
 This project is open-source under the MIT License.
 
+Thanks for visiting!
+🎁 Go make someone's birthday magical today 🎉
+
