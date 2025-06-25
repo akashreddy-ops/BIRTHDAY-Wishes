@@ -39,7 +39,7 @@ birthday-wishes/
 
 ## 🚀 How to Run Locally
 
-1. Clone the repository:
+1. Clone the repository:-
    ```bash
    git clone https://github.com/akashreddy-ops/birthday-wishes.git
    cd birthday-wishes
